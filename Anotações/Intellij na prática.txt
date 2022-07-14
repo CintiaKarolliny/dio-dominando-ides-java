@@ -1,0 +1,12 @@
+*****
+
+ctrl n
+ctrl b
+ctrl shift seta p cima 
+ctrl d
+ctrl alt l
+ctrl y
+
+
+plugins: file - settings - plugins
+
